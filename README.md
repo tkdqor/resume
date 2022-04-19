@@ -31,6 +31,8 @@ Python 3.9.1 / Django / Sqlite3 / DB Browser for SQLite / Git
 
 [프로젝트 상세 설명](https://github.com/ace-project/ace-project) 참고
 
+<br>
+
 * * *
 
 ## 2. Impact museum
@@ -46,4 +48,22 @@ Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kak
 
 # :pushpin: ETC
 
-## 1. TIL
+## 1. TIL(Today I Learned)
+매일 그날 배운 내용을 모두 기록하는 repository    
+최대한 내용이 구분되도록 디렉터리를 설정
+
+[상세 내용](https://github.com/tkdqor/TIL) 참고
+
+<br>
+
+* * *
+
+## 2. 멋쟁이사자처럼 [The Origin] django 과제 
+멋쟁이사자처럼 [The Origin] django 프로그램에서 제출한 과제 repository    
+제출한 코드에 대한 예시나 작동 화면을 사진 또는 gif파일로 readme에 기록   
+
+- [1차 과제](https://github.com/Django-Mission/django_mission_01-tkdqor) 내용 참고
+- [2차 과제](https://github.com/Django-Mission/django_mission_02-tkdqor) 내용 참고
+
+
+
