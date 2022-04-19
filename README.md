@@ -16,3 +16,34 @@
 - 이메일 : aumsbk@naver.com
 - Github : https://github.com/tkdqor
 
+<br>
+
+
+# :pushpin: Projects
+
+## 1. Spot On
+**여행 스팟 소개 서비스 (팀 프로젝트)**   
+**개발 기간:** 2022.3.1 ~ 2022.3.29    
+**역할:** DB모델링 및 Back-end 전반적인 개발 진행
+
+**기술 스택:**     
+Python 3.9.1 / Django / Sqlite3 / DB Browser for SQLite / Git
+
+[프로젝트 상세 설명](https://github.com/ace-project/ace-project) 참고
+
+* * *
+
+## 2. Impact museum
+**사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
+**개발 기간:** 2022.2.12 ~ 진행 중 
+
+**기술 스택:**     
+Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kakao developers / Git
+
+[프로젝트 상세 설명](https://github.com/tkdqor/Impact_museum) 참고
+
+<br>
+
+# :pushpin: ETC
+
+## 1. TIL
