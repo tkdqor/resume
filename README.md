@@ -52,6 +52,8 @@ Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kak
 매일 그날 배운 내용을 모두 기록하는 repository    
 최대한 내용이 구분되도록 디렉터리를 설정
 
+- [기술면접 대비 CS 내용 정리](https://github.com/tkdqor/TIL/blob/main/%EA%B8%B0%ED%83%80/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md)
+
 [상세 내용](https://github.com/tkdqor/TIL) 참고
 
 <br>
