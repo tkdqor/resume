@@ -68,4 +68,11 @@ Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kak
 - [2차 과제](https://github.com/Django-Mission/django_mission_02-tkdqor) 내용 참고
 
 
+* * *
+
+## 3. 알고리즘 공부 Repository
+코딩테스트 대비를 위한 알고리즘 공부 내용을 담은 Repository
+"이것이 취업을 위한 코딩 테스트다 with 파이썬" 이라는 책을 기본으로 풀어본 문제 python 파일을 알고리즘 주제별로 업로드
+
+[상세 내용](https://github.com/tkdqor/coding_test_practice) 참고
 
