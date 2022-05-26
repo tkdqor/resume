@@ -64,7 +64,7 @@ Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kak
 멋쟁이사자처럼 [The Origin] django 프로그램에서 제출한 과제 repository    
 제출한 코드에 대한 예시나 작동 화면을 사진 또는 gif파일로 readme에 기록  
 
-**해당 프로그램 진행 기간:** 2022.3.23 ~ 진행 중
+**해당 프로그램 진행 기간:** 2022.3.23 ~ 2022.5.25
 
 - [1차 과제](https://github.com/Django-Mission/django_mission_01-tkdqor) 내용 참고
 - [2차 과제](https://github.com/Django-Mission/django_mission_02-tkdqor) 내용 참고
