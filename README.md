@@ -40,7 +40,7 @@ Python 3.9.1 / Django / Sqlite3 / DB Browser for SQLite / Git
 **개발 기간:** 2022.2.12 ~ 진행 중 
 
 **기술 스택:**     
-Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kakao developers / Git
+Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kakao developers / Git / DRF(Django REST Framework) / django-debug-toolbar
 
 [프로젝트 상세 설명](https://github.com/tkdqor/Impact_museum) 참고
 
