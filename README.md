@@ -54,6 +54,7 @@ Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kak
 
 - [기술면접 대비 기본 개념 정리](https://github.com/tkdqor/TIL/tree/main/%EA%B8%B0%EC%88%A0%20%EB%A9%B4%EC%A0%91%20%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC)
 
+
 [상세 내용](https://github.com/tkdqor/TIL) 참고
 
 <br>
