@@ -21,28 +21,46 @@
 
 # :pushpin: Projects
 
-## 1. Spot On
+## 1. Impact museum
+**사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
+**개발 기간:** 2022.2.12 ~ 진행 중 
+
+**기술 스택:**     
+Python / Django / MySQL / DBeaver / AWS RDS / Google Cloud Platform / Kakao developers / Git / DRF(Django REST Framework) / Postman / django-debug-toolbar / Redis / AWS Route 53 / Nginx / uWSGI
+
+**개발 사항:**    
+메인 페이지에서 DB에 저장된 상품 확인 및 검색이 가능하도록 구현    
+회원가입 및 소셜 로그인 기능 구현    
+소셜벤처 브랜드 별 페이지 확인 가능 및 해당 브랜드에 속한 상품 확인 가능    
+AWS RDS로 MySQL DBMS 서버 구축  
+사회문제 별 소셜벤처 확인 가능    
+기본적인 CRUD가 가능한 공지사항 게시판 구축(고정 게시글 및 페이지네이션 포함)   
+DRF를 바탕으로 API 서버 구축 및 Postman을 이용한 API 문서 작성    
+www.impactmuseum.com 라는 주소로 배포 완료    
+
+
+[프로젝트 상세 설명](https://github.com/tkdqor/Impact_museum) 참고
+
+<br>
+
+## 2. Spot On
 **여행 스팟 소개 서비스 (팀 프로젝트)**   
 **개발 기간:** 2022.3.1 ~ 2022.3.29    
 **역할:** DB모델링 및 Back-end 전반적인 개발 진행
 
 **기술 스택:**     
-Python 3.9.1 / Django / Sqlite3 / DB Browser for SQLite / Git
+Python / Django / Sqlite3 / DB Browser for SQLite / Git / Nginx / AWS EC2 / AWS Route 53
+
+**개발 사항:**   
+DB에 저장된 모든 여행 스팟을 최신순, 인기순, 지역별로 볼 수 있도록 구현    
+Spot On의 유저끼리 함께 사진을 찍을 동행을 구할 수 있는 게시판 CRUD 구성    
+Spot On의 유저인 경우, 본인이 좋아요를 누른 모든 여행 스팟을 확인할 수 있는 위시리스트 구현    
+데이터베이스 모델 관계 설정     
+spoton.co.kr이라는 주소로 배포 완료(이미지 저작권 이슈로 서버 구동은 하지 않고 있음)
+
 
 [프로젝트 상세 설명](https://github.com/ace-project/ace-project) 참고
 
-<br>
-
-* * *
-
-## 2. Impact museum
-**사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
-**개발 기간:** 2022.2.12 ~ 진행 중 
-
-**기술 스택:**     
-Python 3.9.1 / Django / MySQL / DBeaver / AWS(RDS) / Google Cloud Platform / Kakao developers / Git / DRF(Django REST Framework) / django-debug-toolbar
-
-[프로젝트 상세 설명](https://github.com/tkdqor/Impact_museum) 참고
 
 <br>
 
