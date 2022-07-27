@@ -102,9 +102,27 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 # :mag_right: 프로젝트
 
+## 1. 원티드 프리온보딩 백엔드코스 3차 - 페이히어 기업과제
+**고객이 가계부를 생성하여 수입, 지출 내역을 관리할 수 있는 서비스 (팀 프로젝트)**   
+**개발 기간:** 2022.7.4 ~ 2022.7.8   
+**역할:** DRF를 이용한 가계부 API 개발
+
+**기술 스택:**     
+Python 3.9 / Django 4.0.6 / MySQL 8.0.29 / DRF(Django REST Framework) / Nginx / Gunicorn / Docker / AWS EC2 / Git / Github action / Jira
+
+**개발 사항:**    
+DRF를 바탕으로 기본적인 가계부 관련 CRRUD API 개발 진행     
+가계부 목록 조회, 가계부 생성 API 구현
+특정 가계부에 속하는 금액과 메모 기록 생성,조회 API 구현
+가계부 목록 조회 및 메모 기록 조회 시, 해당일까지의 잔액 계산 로직 개발
+
+[프로젝트 Repository](https://github.com/tkdqor/02_Payhere_TeamH)
+
+<br>
+
 ## 1. Impact museum
 **사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
-**개발 기간:** 2022.2.12 ~ 진행 중 
+**개발 기간:** 2022.2.12 ~ 2022.6.28
 
 **기술 스택:**     
 Python / Django / MySQL / DBeaver / AWS RDS / Google Cloud Platform / Kakao developers / Git / DRF(Django REST Framework) / Postman / django-debug-toolbar / Redis / AWS Route 53 / Nginx / uWSGI
