@@ -7,8 +7,10 @@
 
 # :pushpin: Introduce
 백엔드 개발자를 희망하는 비전공자 김상백입니다. 문제를 해결했을 때 즐거움과 보람을 느끼며 개발자로서 항상 성장하기 위해 노력합니다.     
-또한, 팀 프로젝트 경험을 통해 다른 사람들과 함께 웹 서비스를 만들어 나가는 것에 큰 흥미를 느낍니다.
-제가 회사에 입사한다면, 이러한 성향을 바탕으로 빠르게 적응하고 발전해나가는 개발자가 될 수 있도록 노력해 보고 싶습니다.
+Python과 Django로 웹 개발 공부를 해오고 있습니다.    
+그날 배운 내용을 TIL이라는 Repository에 기록하고 있으며, 멋사 온앤오프, 멋사 The Origin django 프로그램, 원티드 프리온보딩 백엔드 코스를 진행했습니다.   
+Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행해 본 경험을 바탕으로    
+**업무의 기한 및 우선순위를 파악하고 소통하는 데 문제가 없는 개발자**가 되고 싶습니다.
 
 <br>
 
@@ -20,6 +22,44 @@
 
 <br>
 
+# :hammer: Skills
+**언어**
+- Python, Html, CSS
+
+**프레임워크**
+- Django
+
+**개발환경 및 가상환경**
+- VSCode, virtualenv, pipenv
+
+**Formatter, Lint**
+- isort, black, flake8
+
+**DBMS**
+- Sqlite3, MySQL
+
+**DB 관리 툴**
+- DBeaver
+
+**클라우드 서버**
+- AWS(Amazon Web Service) : EC2, RDS, Route 53, Elastic IP
+
+**API 활용(소셜 로그인)**
+- Google Cloud Platform, Kakao developers
+
+**버전관리**
+- Git, Github
+
+**API 서버 및 테스트**
+- DRF(Django REST Framework), Postman
+
+**인메모리 Database**
+- Redis
+
+**Etc**
+- Nginx, uWSGI, Docker, django-debug-toolbar, Jira
+
+<br>
 
 # :mag_right: Projects
 
