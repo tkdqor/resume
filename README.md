@@ -155,7 +155,24 @@ time.sleep()를 이용해 시간차에 따른 게임 입장 가능 여부 API �
 
 <br>
 
-## 4. Impact museum
+## 4. 원티드 프리온보딩 백엔드코스 3차 - 개인과제
+**시나 소설 등 문학 작품의 일부분을 서로 공유하는 SNS API 서비스 (개인 프로젝트)**   
+**개발 기간:** 2022.7.20 ~ 2022.7.26   
+
+**기술 스택:**     
+Python 3.9 / Django 4.0.6 / DRF(Django REST Framework) / DRF SimpleJWT / SQLite3 / Git
+
+**개발 사항:**    
+DRF simplejwt 라이브러리를 사용해 회원가입 후, 로그인 시 클라이언트에게 access token 및 refresh token을 리턴     
+SNS 서비스에 필요한 기본적인 CRRUD API 설계 진행     
+좋아요 기능 API를 구현해서 유저가 좋아요를 누른 게시글 목록을 조회할 수 있도록 설정     
+쿼리 파라미터에 따라, 게시글 목록 조회 API에서 정렬, 검색, 필터링, 페이지 기능 구현
+
+[프로젝트 Repository](https://github.com/tkdqor/pre-onboarding-3rd-SNS)
+
+<br>
+
+## 5. Impact museum
 **사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
 **개발 기간:** 2022.2.12 ~ 2022.6.28
 
@@ -177,7 +194,7 @@ www.impactmuseum.com 라는 주소로 배포 완료(비용 문제로 서버 구�
 
 <br>
 
-## 5. Spot On
+## 6. Spot On
 **여행 스팟 소개 서비스 (팀 프로젝트)**   
 **개발 기간:** 2022.3.1 ~ 2022.3.29    
 **역할:** DB모델링 및 Back-end 전반적인 개발 진행
