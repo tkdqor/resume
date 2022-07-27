@@ -103,7 +103,7 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 # :mag_right: 프로젝트
 
 ## 1. 원티드 프리온보딩 백엔드코스 3차 - 페이히어 기업과제
-**고객이 가계부를 생성하여 수입, 지출 내역을 관리할 수 있는 서비스 (팀 프로젝트)**   
+**고객이 가계부를 생성하여 수입, 지출 내역을 관리할 수 있는 API 서비스 (팀 프로젝트)**   
 **개발 기간:** 2022.7.4 ~ 2022.7.8   
 **역할:** DRF를 이용한 가계부 API 개발
 
@@ -111,16 +111,51 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 Python 3.9 / Django 4.0.6 / MySQL 8.0.29 / DRF(Django REST Framework) / Nginx / Gunicorn / Docker / AWS EC2 / Git / Github action / Jira
 
 **개발 사항:**    
-DRF를 바탕으로 기본적인 가계부 관련 CRRUD API 개발 진행     
-가계부 목록 조회, 가계부 생성 API 구현
-특정 가계부에 속하는 금액과 메모 기록 생성,조회 API 구현
+DRF를 바탕으로 기본적인 가계부 관련 CRRUD API 개발 진행    
+가계부 목록 조회, 가계부 생성 API 구현      
+특정 가계부에 속하는 금액과 메모 기록 생성,조회 API 구현     
 가계부 목록 조회 및 메모 기록 조회 시, 해당일까지의 잔액 계산 로직 개발
 
 [프로젝트 Repository](https://github.com/tkdqor/02_Payhere_TeamH)
 
 <br>
 
-## 1. Impact museum
+## 2. 원티드 프리온보딩 백엔드코스 3차 - (주)랩큐 기업과제
+**서울시 지역구별 강우량 및 하수관로 수위 데이터 제공 및 수위 현황과 기후정보를 응답하는 API 서비스 (팀 프로젝트)**   
+**개발 기간:** 2022.6.29 ~ 2022.7.1   
+**역할:** 개발환경 초기 셋팅 및 DRF를 이용한 수위 현황과 기후정보 로직 구성
+
+**기술 스택:**     
+Python 3.9 / Django 3.2.10 / MySQL / DRF(Django REST Framework) / AWS EC2 / Git / Github action
+
+**개발 사항:**    
+pipenv 가상환경을 이용한 패키지 의존성 관리    
+하수관로 및 강우량 정보 모델 관계설정 및 모델링 진행     
+DRF를 바탕으로 수위비율에 따른 수위 상태값을 응답하고 강우량 기준에 따른 상태값 응답 로직 개발
+
+[프로젝트 Repository](https://github.com/tkdqor/01_LabQ_TeamH)
+
+<br>
+
+## 3. 원티드 프리온보딩 백엔드코스 3차 - 게임듀오 기업과제 
+**게임의 구조를 바탕으로 회원가입과 로그인 및 게임 시작, 종료, 게임 상태조회, 랭킹조회를 제공하는 API 서비스(팀 프로젝트)**   
+**개발 기간:** 2022.7.11 ~ 2022.7.15   
+**역할:** 테스트 케이스 작성 및 진행
+
+**기술 스택:**     
+Python 3.9 / Django 4.0.6 / MySQL 5.7.38 / DRF(Django REST Framework) / Redis 7.0 / AWS EC2 / Docker / Nginx / uWSGI / Git / Github action
+
+**개발 사항:**    
+회원가입(nickname과 password 6자리 이상) 및 로그인 API 테스트   
+admin 유저 로그인 상태로 설정 후, 회원 전체 조회 여부 API 테스트    
+time.sleep()를 이용해 시간차에 따른 게임 입장 가능 여부 API 테스트 진행    
+게임 시작 및 종료 API 테스트
+
+[프로젝트 Repository](https://github.com/tkdqor/03_GameDuo_TeamH)
+
+<br>
+
+## 4. Impact museum
 **사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
 **개발 기간:** 2022.2.12 ~ 2022.6.28
 
@@ -135,14 +170,14 @@ AWS RDS로 MySQL DBMS 서버 구축
 사회문제 별 소셜벤처 확인 가능    
 기본적인 CRUD가 가능한 공지사항 게시판 구축(고정 게시글 및 페이지네이션 포함)   
 DRF를 바탕으로 API 서버 구축 및 Postman을 이용한 API 문서 작성    
-www.impactmuseum.com 라는 주소로 배포 완료    
+www.impactmuseum.com 라는 주소로 배포 완료(비용 문제로 서버 구동은 하지 않고 있음)    
 
 
-[프로젝트 상세 설명](https://github.com/tkdqor/Impact_museum) 참고
+[프로젝트 Repository](https://github.com/tkdqor/Impact_museum)
 
 <br>
 
-## 2. Spot On
+## 5. Spot On
 **여행 스팟 소개 서비스 (팀 프로젝트)**   
 **개발 기간:** 2022.3.1 ~ 2022.3.29    
 **역할:** DB모델링 및 Back-end 전반적인 개발 진행
@@ -158,7 +193,7 @@ Spot On의 유저인 경우, 본인이 좋아요를 누른 모든 여행 스팟�
 spoton.co.kr이라는 주소로 배포 완료(이미지 저작권 이슈로 서버 구동은 하지 않고 있음)
 
 
-[프로젝트 상세 설명](https://github.com/ace-project/ace-project) 참고
+[프로젝트 Repository](https://github.com/ace-project/ace-project)
 
 
 <br>
@@ -176,19 +211,7 @@ spoton.co.kr이라는 주소로 배포 완료(이미지 저작권 이슈로 서�
 
 <br>
 
-## 2. 멋쟁이사자처럼 [The Origin] django 과제 
-멋쟁이사자처럼 [The Origin] django 프로그램에서 제출한 과제 repository    
-제출한 코드에 대한 예시나 작동 화면을 사진 또는 gif파일로 readme에 기록  
-
-**해당 프로그램 진행 기간:** 2022.3.23 ~ 2022.5.25
-
-- [1차 과제](https://github.com/Django-Mission/django_mission_01-tkdqor) 내용 참고
-- [2차 과제](https://github.com/Django-Mission/django_mission_02-tkdqor) 내용 참고
-- [3차 과제](https://github.com/Django-Mission/django_mission_03-tkdqor) 내용 참고
-
-<br>
-
-## 3. 알고리즘 공부 Repository
+## 2. 알고리즘 공부 Repository
 코딩테스트 대비를 위한 알고리즘 공부 내용을 담은 Repository     
 "이것이 취업을 위한 코딩 테스트다 with 파이썬" 이라는 책을 기본으로 풀어본 문제 python 파일을 알고리즘 주제별로 업로드
 
