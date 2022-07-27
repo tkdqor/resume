@@ -1,25 +1,27 @@
 # 김상백 포트폴리오
-문제를 해결할 때 보람을 느끼는 백엔드 개발자 김상백입니다. **‘하루는 성실하게, 인생은 되는대로’** 라는 마인드를 가지고 있습니다.
+문제를 해결할 때 보람을 느끼는 백엔드 개발자 김상백입니다.    
+**‘하루는 성실하게, 인생은 되는대로’** 라는 마인드로 살아가고 있습니다.
 
 <br>
 
 
 # :pushpin: Introduce
 백엔드 개발자를 희망하는 비전공자 김상백입니다. 문제를 해결했을 때 즐거움과 보람을 느끼며 개발자로서 항상 성장하기 위해 노력합니다.     
-또한, 팀 프로젝트 경험을 통해 다른 사람들과 함께 웹 서비스를 만들어 나가는 것에 큰 흥미를 느낄 수 있었습니다.      
+또한, 팀 프로젝트 경험을 통해 다른 사람들과 함께 웹 서비스를 만들어 나가는 것에 큰 흥미를 느낍니다.
 제가 회사에 입사한다면, 이러한 성향을 바탕으로 빠르게 적응하고 발전해나가는 개발자가 될 수 있도록 노력해 보고 싶습니다.
 
 <br>
 
 
-# :pushpin: Contact
-- 이메일 : aumsbk@naver.com
+# :telephone_receiver: Contact
+- 이메일 : aumsbk@naver.com, aumsbk@gmail.com
 - Github : https://github.com/tkdqor
+- Blog : https://velog.io/@aumsbk
 
 <br>
 
 
-# :pushpin: Projects
+# :mag_right: Projects
 
 ## 1. Impact museum
 **사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
@@ -64,7 +66,7 @@ spoton.co.kr이라는 주소로 배포 완료(이미지 저작권 이슈로 서�
 
 <br>
 
-# :pushpin: ETC
+# :pencil2: ETC
 
 ## 1. TIL(Today I Learned)
 매일 그날 배운 내용을 모두 기록하는 repository    
