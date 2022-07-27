@@ -22,7 +22,7 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 <br>
 
-# :hammer: Skills
+# :hammer: 기술 스택
 **언어**
 - Python, Html, CSS
 
@@ -61,7 +61,46 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 <br>
 
-# :mag_right: Projects
+# :black_nib: 경력
+
+**에이블리코퍼레이션, 자금파트 Manager**   
+2021년 4월 26일 ~ 2021년 12월 24일
+
+- 에이블리 앱에 입점한 마켓의 입점 형태에 따른 정산금 계산 및 관리 진행
+- 입점 마켓에 대한 매출세금계산서 발행
+- 은행계좌 별 자금 잔액 관리 및 출금 집행
+- 사업 관련 비용 내역 지출 검토
+- 광고 사업 비즈머니 집행 내역 검토
+
+<br>
+
+# :mortar_board: 프로그램 이수
+**멋쟁이사자처럼 온앤오프 프로그램**    
+2022년 1월 8일 ~ 2022년 3월 26일
+
+- Html/CSS/Python/Django와 관련된 기본적인 내용 학습
+- 1달간의 팀 프로젝트를 진행하면서 Spot on 웹 서비스 개발 진행
+
+<br>
+
+**멋쟁이사자처럼 백엔드 개발자 취업 아카데미 with Django 프로그램**   
+2022년 3월 23일 ~ 2022년 5월 25일
+
+- Django 어드민 페이지 구성 / DRF 활용 방안 등 기본적인 백엔드 관련 지식 습득 
+- 팀 별 회의를 통해 알고리즘 스터디 진행
+
+<br>
+
+**원티드 프리온보딩 백엔드코스 3차**    
+2022.06.27 ~ 2022.07.29
+
+- 참여기업에서 요구하는 실무과제들을 팀별로 진행
+- 코드와 커밋 컨벤션을 바탕으로 협업하고 DRF로 API 설계 및 Docker를 이용한 배포까지 경험
+- 주 2회 강의 진행으로 주니어 개발자에게 필요한 실무 내용 학습
+
+<br>
+
+# :mag_right: 프로젝트
 
 ## 1. Impact museum
 **사회문제를 해결하는 소셜벤처 상품 소개 서비스 (개인 프로젝트)**   
@@ -119,8 +158,6 @@ spoton.co.kr이라는 주소로 배포 완료(이미지 저작권 이슈로 서�
 
 <br>
 
-* * *
-
 ## 2. 멋쟁이사자처럼 [The Origin] django 과제 
 멋쟁이사자처럼 [The Origin] django 프로그램에서 제출한 과제 repository    
 제출한 코드에 대한 예시나 작동 화면을 사진 또는 gif파일로 readme에 기록  
@@ -131,8 +168,7 @@ spoton.co.kr이라는 주소로 배포 완료(이미지 저작권 이슈로 서�
 - [2차 과제](https://github.com/Django-Mission/django_mission_02-tkdqor) 내용 참고
 - [3차 과제](https://github.com/Django-Mission/django_mission_03-tkdqor) 내용 참고
 
-
-* * *
+<br>
 
 ## 3. 알고리즘 공부 Repository
 코딩테스트 대비를 위한 알고리즘 공부 내용을 담은 Repository     
