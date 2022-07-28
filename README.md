@@ -1,4 +1,4 @@
-# 김상백 포트폴리오
+# 김상백 이력서
 문제를 해결할 때 보람을 느끼는 백엔드 개발자 김상백입니다.    
 **‘하루는 성실하게, 인생은 되는대로’** 라는 마인드로 살아가고 있습니다.
 
@@ -6,9 +6,10 @@
 
 
 # :pushpin: Introduce
-백엔드 개발자를 희망하는 비전공자 김상백입니다. 문제를 해결했을 때 즐거움과 보람을 느끼며 개발자로서 항상 성장하기 위해 노력합니다.     
+백엔드 개발자 김상백입니다. 문제를 해결했을 때 즐거움과 보람을 느끼며 개발자로서 항상 성장하기 위해 노력합니다.     
 Python과 Django로 웹 개발 공부를 해오고 있습니다.    
-그날 배운 내용을 TIL이라는 Repository에 기록하고 있으며, 멋사 온앤오프, 멋사 The Origin django 프로그램, 원티드 프리온보딩 백엔드 코스를 진행했습니다.   
+그날 배운 내용을 [TIL](https://github.com/tkdqor/TIL)이라는 Repository에 기록하는 습관을 가지고 있습니다.    
+멋사 온앤오프, 멋사 The Origin django 프로그램, 원티드 프리온보딩 백엔드 코스를 진행했습니다.   
 Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행해 본 경험을 바탕으로    
 **업무의 기한 및 우선순위를 파악하고 소통하는 데 문제가 없는 개발자**가 되고 싶습니다.
 
@@ -16,7 +17,7 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 
 # :telephone_receiver: Contact
-- 이메일 : aumsbk@naver.com, aumsbk@gmail.com
+- 이메일 : aumsbk@gmail.com
 - Github : https://github.com/tkdqor
 - Blog : https://velog.io/@aumsbk
 
@@ -27,13 +28,7 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 - Python, Html, CSS
 
 **프레임워크**
-- Django
-
-**개발환경 및 가상환경**
-- VSCode, virtualenv, pipenv
-
-**Formatter, Lint**
-- isort, black, flake8
+- Django, DRF(Django REST Framework)
 
 **DBMS**
 - Sqlite3, MySQL
@@ -44,20 +39,20 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 **클라우드 서버**
 - AWS(Amazon Web Service) : EC2, RDS, Route 53, Elastic IP
 
-**API 활용(소셜 로그인)**
-- Google Cloud Platform, Kakao developers
+**배포**
+- Docker, Nginx, uWSGI 
 
 **버전관리**
 - Git, Github
 
-**API 서버 및 테스트**
-- DRF(Django REST Framework), Postman
+**API 서버 테스트**
+- Postman
 
 **인메모리 Database**
 - Redis
 
 **Etc**
-- Nginx, uWSGI, Docker, django-debug-toolbar, Jira
+- django-debug-toolbar, Jira, Google Cloud Platform, Kakao developers
 
 <br>
 
@@ -75,11 +70,12 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 <br>
 
 # :mortar_board: 프로그램 이수
-**멋쟁이사자처럼 온앤오프 프로그램**    
-2022년 1월 8일 ~ 2022년 3월 26일
+**원티드 프리온보딩 백엔드코스 3차**    
+2022.06.27 ~ 2022.07.29
 
-- Html/CSS/Python/Django와 관련된 기본적인 내용 학습
-- 1달간의 팀 프로젝트를 진행하면서 Spot on 웹 서비스 개발 진행
+- 참여기업에서 요구하는 실무과제들을 팀별로 진행
+- 코드와 커밋 컨벤션을 바탕으로 협업하고 DRF로 API 설계 및 Docker를 이용한 배포까지 경험
+- 주 2회 강의 진행으로 주니어 개발자에게 필요한 실무 내용 학습
 
 <br>
 
@@ -91,12 +87,11 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 <br>
 
-**원티드 프리온보딩 백엔드코스 3차**    
-2022.06.27 ~ 2022.07.29
+**멋쟁이사자처럼 온앤오프 프로그램**    
+2022년 1월 8일 ~ 2022년 3월 26일
 
-- 참여기업에서 요구하는 실무과제들을 팀별로 진행
-- 코드와 커밋 컨벤션을 바탕으로 협업하고 DRF로 API 설계 및 Docker를 이용한 배포까지 경험
-- 주 2회 강의 진행으로 주니어 개발자에게 필요한 실무 내용 학습
+- Html/CSS/Python/Django와 관련된 기본적인 내용 학습
+- 1달간의 팀 프로젝트를 진행하면서 Spot on 웹 서비스 개발 진행
 
 <br>
 
