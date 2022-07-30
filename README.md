@@ -4,6 +4,12 @@
 
 <br>
 
+# :telephone_receiver: Contact
+- 이메일 : aumsbk@gmail.com
+- Github : https://github.com/tkdqor
+- Blog : https://velog.io/@aumsbk
+
+<br>
 
 # :pushpin: Introduce
 백엔드 개발자 김상백입니다. 문제를 해결했을 때 즐거움과 보람을 느끼며 개발자로서 항상 성장하기 위해 노력합니다.     
@@ -12,14 +18,6 @@ Python과 Django로 웹 개발 공부를 해오고 있습니다.
 멋사 온앤오프, 멋사 The Origin django 프로그램, 원티드 프리온보딩 백엔드 코스를 진행했습니다.   
 Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행해 본 경험을 바탕으로    
 **업무의 기한 및 우선순위를 파악하고 소통하는 데 문제가 없는 개발자**가 되고 싶습니다.
-
-<br>
-
-
-# :telephone_receiver: Contact
-- 이메일 : aumsbk@gmail.com
-- Github : https://github.com/tkdqor
-- Blog : https://velog.io/@aumsbk
 
 <br>
 
