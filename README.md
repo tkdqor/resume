@@ -23,7 +23,7 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 <br>
 
-# :hammer: 기술 스택
+# :hammer: Skill
 ### Backend
 
 `Python⭐` , `Django⭐` , `DRF`
@@ -62,46 +62,38 @@ Slack, 트렐로, Jira, Github 칸반보드로 협업 및 프로젝트를 진행
 
 <br>
 
-# :black_nib: 경력
+# 📋 Project
 
-**에이블리코퍼레이션, 자금파트 Manager**   
-2021년 4월 26일 ~ 2021년 12월 24일
+## 원티드 프리온보딩 백엔드코스 3차 - 개인과제 `개인 프로젝트`
+**시나 소설 등 문학 작품의 일부분을 서로 공유하는 SNS API 서비스**   
+**개발 기간:** 2022.7.20 ~ 2022.7.26   
+**기술 스택:** Python 3.9 / Django 4.0.6 / DRF(Django REST Framework) / DRF SimpleJWT / SQLite3 / Git
 
-- 에이블리 앱에 입점한 마켓의 입점 형태에 따른 정산금 계산 및 관리 진행
-- 입점 마켓에 대한 매출세금계산서 발행
-- 은행계좌 별 자금 잔액 관리 및 출금 집행
-- 사업 관련 비용 내역 지출 검토
-- 광고 사업 비즈머니 집행 내역 검토
+**개발 사항:**    
+DRF simplejwt 라이브러리를 사용해 회원가입 후, 로그인 시 클라이언트에게 access token 및 refresh token을 리턴    
+SNS 서비스에 필요한 기본적인 CRRUD API 설계 진행   
+좋아요 기능 API를 구현해서 유저가 좋아요를 누른 게시글 목록을 조회할 수 있도록 설정   
+쿼리 파라미터에 따라, 게시글 목록 조회 API에서 정렬, 검색, 필터링, 페이지 기능 구현
 
-<br>
-
-# :mortar_board: 프로그램 이수
-**원티드 프리온보딩 백엔드코스**    
-2022.06.27 ~ 2022.07.29
-
-- 참여기업에서 요구하는 실무과제들을 팀별로 진행
-- 코드와 커밋 컨벤션을 바탕으로 협업하고 DRF로 API 설계 및 Docker를 이용한 배포까지 경험
-- 주 2회 강의 진행으로 주니어 개발자에게 필요한 실무 내용 학습
+🔎 [Github Repository](https://github.com/tkdqor/pre-onboarding-3rd-SNS)
 
 <br>
 
-**멋쟁이사자처럼 백엔드 개발자 취업 아카데미 with Django 프로그램**   
-2022년 3월 23일 ~ 2022년 5월 25일
+## 원티드 프리온보딩 백엔드코스 3차 - 게임듀오 기업과제 `팀 프로젝트(5명)`
+**회원가입과 로그인 및 게임 시작, 종료, 게임 상태조회, 랭킹조회를 제공하는 API 서비스**  
+**개발 기간:** 2022.7.11 ~ 2022.7.15  
+**역할:** 테스트 케이스 작성 및 진행  
+**나의 기술 스택:** Python 3.9 / Django 4.0.6 / DRF(Django REST Framework) / Redis 7.0 / Git
 
-- Django 어드민 페이지 구성 / DRF 활용 방안 등 기본적인 백엔드 관련 지식 습득 
-- 팀 별 회의를 통해 알고리즘 스터디 진행
+**개발 사항:**    
+회원가입(nickname과 password 6자리 이상) 및 로그인 API 테스트.  
+admin 유저 로그인 상태로 설정 후, 회원 전체 조회 여부 API 테스트.  
+time.sleep()를 이용해 시간차에 따른 게임 입장 가능 여부 API 테스트 진행   
+게임 시작 및 종료 API 테스트
+
+🔎 [Github Repository](https://github.com/tkdqor/03_GameDuo_TeamH)
 
 <br>
-
-**멋쟁이사자처럼 온앤오프 프로그램**    
-2022년 1월 8일 ~ 2022년 3월 26일
-
-- Html/CSS/Python/Django와 관련된 기본적인 내용 학습
-- 1달간의 팀 프로젝트를 진행하면서 Spot on 웹 서비스 개발 진행
-
-<br>
-
-# 📋 프로젝트
 
 ## 원티드 프리온보딩 백엔드코스 3차 - 페이히어 기업과제 `팀 프로젝트(5명)`
 **고객이 가계부를 생성하여 수입, 지출 내역을 관리할 수 있는 API 서비스**    
@@ -116,21 +108,6 @@ DRF를 바탕으로 기본적인 가계부 관련 CRRUD API 개발 진행
 가계부 목록 조회 및 메모 기록 조회 시, 해당일까지의 잔액 계산 로직 개발
 
 🔎 [Github Repository](https://github.com/tkdqor/02_Payhere_TeamH)
-
-<br>
-
-## 원티드 프리온보딩 백엔드코스 3차 - 개인과제 `개인 프로젝트`
-**시나 소설 등 문학 작품의 일부분을 서로 공유하는 SNS API 서비스**   
-**개발 기간:** 2022.7.20 ~ 2022.7.26   
-**기술 스택:** Python 3.9 / Django 4.0.6 / DRF(Django REST Framework) / DRF SimpleJWT / SQLite3 / Git
-
-**개발 사항:**    
-DRF simplejwt 라이브러리를 사용해 회원가입 후, 로그인 시 클라이언트에게 access token 및 refresh token을 리턴    
-SNS 서비스에 필요한 기본적인 CRRUD API 설계 진행   
-좋아요 기능 API를 구현해서 유저가 좋아요를 누른 게시글 목록을 조회할 수 있도록 설정   
-쿼리 파라미터에 따라, 게시글 목록 조회 API에서 정렬, 검색, 필터링, 페이지 기능 구현
-
-🔎 [Github Repository](https://github.com/tkdqor/pre-onboarding-3rd-SNS)
 
 <br>
 
@@ -169,22 +146,6 @@ www.impactmuseum.com 라는 주소로 배포 완료(비용 문제로 서버 구�
 
 <br>
 
-## 원티드 프리온보딩 백엔드코스 3차 - 게임듀오 기업과제 `팀 프로젝트(5명)`
-**회원가입과 로그인 및 게임 시작, 종료, 게임 상태조회, 랭킹조회를 제공하는 API 서비스**  
-**개발 기간:** 2022.7.11 ~ 2022.7.15  
-**역할:** 테스트 케이스 작성 및 진행  
-**나의 기술 스택:** Python 3.9 / Django 4.0.6 / DRF(Django REST Framework) / Redis 7.0 / Git
-
-**개발 사항:**    
-회원가입(nickname과 password 6자리 이상) 및 로그인 API 테스트.  
-admin 유저 로그인 상태로 설정 후, 회원 전체 조회 여부 API 테스트.  
-time.sleep()를 이용해 시간차에 따른 게임 입장 가능 여부 API 테스트 진행   
-게임 시작 및 종료 API 테스트
-
-🔎 [Github Repository](https://github.com/tkdqor/03_GameDuo_TeamH)
-
-<br>
-
 # :pencil2: ETC
 
 ## TIL(Today I Learned)
@@ -202,3 +163,46 @@ time.sleep()를 이용해 시간차에 따른 게임 입장 가능 여부 API �
 
 🔎 [Github Repository](https://github.com/tkdqor/coding_test_practice)
 
+<br>
+
+# :black_nib: Experience
+
+**에이블리코퍼레이션, 자금파트 Manager**   
+2021년 4월 26일 ~ 2021년 12월 24일
+
+- 에이블리 앱에 입점한 마켓의 입점 형태에 따른 정산금 계산 및 관리 진행
+- 입점 마켓에 대한 매출세금계산서 발행
+- 은행계좌 별 자금 잔액 관리 및 출금 집행
+- 사업 관련 비용 내역 지출 검토
+- 광고 사업 비즈머니 집행 내역 검토
+
+<br>
+
+# :mortar_board: Education
+**원티드 프리온보딩 백엔드코스**    
+2022.06.27 ~ 2022.07.29
+
+- 참여기업에서 요구하는 실무과제들을 팀별로 진행
+- 코드와 커밋 컨벤션을 바탕으로 협업하고 DRF로 API 설계 및 Docker를 이용한 배포까지 경험
+- 주 2회 강의 진행으로 주니어 개발자에게 필요한 실무 내용 학습
+
+<br>
+
+**멋쟁이사자처럼 백엔드 개발자 취업 아카데미 with Django 프로그램**   
+2022.03.23 ~ 2022.05.25
+
+- Django 어드민 페이지 구성 / DRF 활용 방안 등 기본적인 백엔드 관련 지식 습득 
+- 팀 별 회의를 통해 알고리즘 스터디 진행
+
+<br>
+
+**멋쟁이사자처럼 온앤오프 프로그램**    
+2022.01.08 ~ 2022.03.26
+
+- Html/CSS/Python/Django와 관련된 기본적인 내용 학습
+- 1달간의 팀 프로젝트를 진행하면서 Spot on 웹 서비스 개발 진행
+
+<br>
+
+**인천대학교 경영학부 전공**   
+2013.03.04 ~ 2020.02.14
